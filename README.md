@@ -1,41 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  
-  </head>
-  <body>  
-  <style>
-  body {
-  color:#110EF0;
-  background-position: center; 
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
- line-height: 1.6em;
- margin: 0; 
- }
-header {
-  background-color: orange;
-
-}
-h2 {
-  background-color: #E5FA0F;
-}
-
-.article1 {
-   background-color: #F7D914;
-}
-
-.article2 {
-  background-color: #E01FB3;
-  opacity: .75
-}
-
-.aside1 {
-  background-color: #36FA2B;
-
-
-} 
-</style> 
-<script>
+  <script>
   var userName = prompt('Hello, My name is Felicia. What is your name?'); 
 console.log('Hello' + userName + 'Welcome to my about me page!!!'); 
 alert('Hello' + userName + 'Welcome to my  about me page!!!'); 
@@ -82,6 +48,40 @@ if (questionThree !=='yes'  && questionThree ==='y') {
 var userName = alert('I hope you like my page' +  userName); var
 
   </script>
+  </head>
+  <body>  
+  <style>
+  body {
+  color:#110EF0;
+  background-position: center; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ line-height: 1.6em;
+ margin: 0; 
+ }
+header {
+  background-color: orange;
+
+}
+h2 {
+  background-color: #E5FA0F;
+}
+
+.article1 {
+   background-color: #F7D914;
+}
+
+.article2 {
+  background-color: #E01FB3;
+  opacity: .75
+}
+
+.aside1 {
+  background-color: #36FA2B;
+
+
+} 
+</style> 
+
     <div class="div1">
       <header>
         <h1> Felicia's Page </h1> 
